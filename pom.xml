@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>gv.springsecurity.jpa</groupId>
-	<artifactId>Neoris-Jwt</artifactId>
+	<artifactId>TechTestApiJwt</artifactId>
 	<version>0.0.1</version>
-	<name>neoris-technical-test</name>
+	<name>technical-test</name>
 	<description>Demo project for Spring Boot jwt</description>
 	<properties>
 		<java.version>17</java.version>
