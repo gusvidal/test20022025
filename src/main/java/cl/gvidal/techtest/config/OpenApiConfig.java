@@ -30,7 +30,7 @@ public class OpenApiConfig {
         Info info = new Info()
                 .title("Diio SpringBoot 3 API")
                 .version("1.0")
-                .description("Neoris technical test documentation")
+                .description("Technical test documentation")
                 .contact(contact)
                 .termsOfService("http://swagger.io/terms/")
                 .license(new License().name("Apache 2.0").url("http://springdoc.org"));
